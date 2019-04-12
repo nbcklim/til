@@ -1,0 +1,1 @@
+To view markdown in VSCode, use Command-Shift-V on a Mac
